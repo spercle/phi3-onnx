@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+adapters/
+fused_model/
+mlx_model
+.DS_Store
